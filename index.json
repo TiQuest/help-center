@@ -1,6 +1,20 @@
 {
   "title": "Help Center",
-  "sections": [
+  "children": [
+    { 
+      "type": "section",
+      "title": "Menu",
+      "children": [
+        {
+          "title": "Table Ordering",
+          "url": "welcome"
+        },
+        {
+          "title": "No Idea",
+          "url": "help"
+        }
+      ]
+    },
     {
       "title": "Welcome",
       "url": "welcome"
