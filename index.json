@@ -1,0 +1,13 @@
+{
+  "title": "Help Center",
+  "sections": [
+    {
+      "title": "Welcome",
+      "url": "welcome"
+    },
+    {
+      "title": "Create an account",
+      "url": "help"
+    }
+  ]
+}
